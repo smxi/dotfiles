@@ -6,6 +6,6 @@ vim (dark) schema.
 
 i3-config: save as config to either ~/.config/i3/config or /etc/i3/config
 Requires i3bar and i3status. Very minimal, just the basics, for a clean simple
-i3 setup.
+i3 setup. Adjust to suite your taste.
 
 
