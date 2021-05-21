@@ -1,5 +1,17 @@
 {
     "custom-styles": {
+        "Bash": {
+            "Control Flow": {
+                "selected-text-color": "#f979bb",
+                "text-color": "#eb7438"
+            },
+            "Option": {
+                "text-color": "#f97f9b"
+            },
+            "Variable": {
+                "text-color": "#52daf8"
+            }
+        },
         "C": {
             "Prep. Lib": {
                 "selected-text-color": "#e6db74",
@@ -152,6 +164,17 @@
             "Strong Text": {
                 "selected-text-color": "#66d9ef",
                 "text-color": "#66d9ef"
+            }
+        },
+        "PHP/PHP": {
+            "Backslash Code": {
+                "text-color": "#b8bc88"
+            },
+            "Special Variable": {
+                "text-color": "#e254ff"
+            },
+            "Variable": {
+                "text-color": "#53d1ff"
             }
         },
         "Python": {
