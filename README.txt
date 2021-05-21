@@ -7,9 +7,11 @@ Note that code editor colorschemes will focus on PHP and Perl.
 
 Kate:
 kateschema: use inport feature to import into kate code editor. 
-* dark-1 is the working dark scheme. This will be updated routinely
-as it's adapted to be more usable than most of the default dark 
- schemes.
+* dark-1 is the working dark scheme. 
+Global colors. Languages adjusted: Perl, Bash, PHP.
+ 
+This will be updated routinely as it's adapted to be more usable 
+than most of the default dark schemes.
 
 * vim-dark-custom.kateschema is a modified and more readable version 
 of the vim (dark) schema. Note that it is not done, unfortunately.
